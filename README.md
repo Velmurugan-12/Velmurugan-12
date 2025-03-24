@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Velmurugan !<br><br>🚀 Frontend Developer | React Enthusiast | Lifelong Learner<br><br>🌟 About Me<br> 🔥 Passionate about building modern, scalable web applications.<br>🚀 Exploring new technologies to improve user experience and performance.<br>✨ Positive thinker & team player – love collaborating and learning from others!<br>
+👋 Hi, I'm Velmurugan !<br><br>🚀 Frontend Developer | React Enthusiast | Lifelong Learner<br><br> 🔥 Passionate about building modern, scalable web applications.<br>🚀 Exploring new technologies to improve user experience and performance.<br>✨ Positive thinker & team player – love collaborating and learning from others!<br>
 
 
 ## 🌐 Socials:
